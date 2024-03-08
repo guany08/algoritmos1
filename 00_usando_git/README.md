@@ -8,7 +8,7 @@ Recomendamos leer la [documentación oficial sobre la introducción a GitHub.](h
 
 ## Preparar el entorno Visual Studio Code para trabajar con Git y Java
 
-1 - Lo primero que debemos hacer es instalar el Coding Pack for Java. Incluye VS Code, el Java Development Kit (JDK) y extensiones de Java..
+1 - Lo primero que debemos hacer es instalar el Coding Pack for Java. Incluye VS Code, el Java Development Kit (JDK) y extensiones de Java.
 Siguiendo el link instalamos el Coding Pack para el sistema operativo correspondiente. Para aquellos sistemas operativos como Linux hay que instalar las herramientas de manera individual.
 
 → https://code.visualstudio.com/docs/java/java-tutorial
